@@ -37,8 +37,10 @@ MongoDB • MySQL • Git • GitHub • Azure
 
 ---
 
-📌 [LinkedIn](https://linkedin.com/in/bhushan-gholekar09)
+## Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bhushang9&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=bhushang9&icon=0&color=0)](https://visitcount.itsvg.in)
+📌 [LinkedIn](https://linkedin.com/in/bhushan-gholekar09)
