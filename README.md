@@ -1,19 +1,3 @@
-## Hi, I'm Bhushan Gholekar 👋 ##
-
-**Computer Science Postgraduate | Machine Learning • NLP • Software Engineering**
-Building data-driven applications using Python, TensorFlow, Flask, and Streamlit.
-
----
-
-## About Me
-
-- 🎓 M.Sc. Computer Science — S.K. Somaiya College, Mumbai
-- 💻 Building end-to-end ML systems and data-driven web applications
-- 🔍 Interested in Machine Learning, NLP, and Backend Development
-- 📫 gholekarbhushan289@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/bhushan-gholekar09)
-
----
 
 ## 💻 Tech Stack
 
@@ -33,18 +17,72 @@ Building data-driven applications using Python, TensorFlow, Flask, and Streamlit
 
 ---
 
-## 📊 GitHub Stats
+# Hi, I'm Bhushan Gholekar 👋
 
-![](https://github-readme-stats.vercel.app/api?username=bhushang9&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushang9&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+**M.Sc. Computer Science | Machine Learning | NLP | Backend Development**
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=bhushang9&theme=radical&hide_border=true)
----
+I build **data-driven applications and machine learning systems** using Python and modern ML frameworks. My work focuses on applying machine learning models to real-world problems and deploying them as usable applications.
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bhushang9&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+📍 Mumbai, India  
+📧 gholekarbhushan289@gmail.com  
+🔗 https://linkedin.com/in/bhushan-gholekar09  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=bhushang9&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
+
+- 🎓 M.Sc. Computer Science — S.K. Somaiya College, Mumbai  
+- 💻 Experience building **ML models and deploying applications using Flask and Streamlit**
+- 📊 Interested in **Machine Learning, NLP, and Backend Development**
+- 🔍 Focused on building **practical ML systems and data-driven applications**
+
+---
+
+## Tech Stack
+
+**Programming Languages**  
+Python, SQL, JavaScript, HTML, CSS  
+
+**Machine Learning**  
+Scikit-learn, TensorFlow, Keras, CNN, Transfer Learning  
+
+**Frameworks**  
+Flask, Streamlit  
+
+**Data Libraries**  
+Pandas, NumPy  
+
+**Databases & Tools**  
+MongoDB, MySQL, Git, GitHub, Azure  
+
+**Design**  
+Figma  
+
+---
+
+## Selected Projects
+
+### Mental Health Predictor (ML Web App)
+- Built a machine learning system to predict mental health risks based on lifestyle and work factors
+- Implemented multiple models and ensemble learning using **StackingClassifier**
+- Developed an interactive web application using **Streamlit**
+
+### Tomato Leaf Disease Detection
+- Built **CNN and transfer learning models** to detect plant diseases from leaf images
+- Compared performance of **CNN, ResNet50, MobileNetV2, and KNN**
+
+### Flask Web Applications
+- Developed web applications including **authentication systems, blog platforms, and data tools using Flask**
+
+---
+
+## GitHub Stats
+
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushang9&show_icons=true&hide_border=true)
+
+---
+
+## Connect With Me
+
+LinkedIn: https://linkedin.com/in/bhushan-gholekar09  
+Email: gholekarbhushan289@gmail.com
