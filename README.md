@@ -4,8 +4,6 @@
 
 I build **data-driven applications and analytical solutions** using Python, SQL, and modern ML frameworks. My work focuses on analyzing real-world datasets, developing machine learning models, and building scalable backend applications.
 
-📍 Mumbai, India  
-
 ---
 
 ## About Me
@@ -57,4 +55,5 @@ I build **data-driven applications and analytical solutions** using Python, SQL,
 ## Connect With Me
 
 - 🔗 LinkedIn: https://linkedin.com/in/bhushan-gholekar09  
-- 📧 Email: gholekarbhushan289@gmail.com  
+- 📧 Email: gholekarbhushan289@gmail.com
+- 📍 Mumbai, India  
